@@ -24,7 +24,8 @@ public class GoogleSearchController {
     {
 
 
-        String stSearchUrl = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDtI3zjzQPOATz6v68va9z_z6JVIIs05uI&cx=26fde055a2ccf8561&q=";
+        // String stSearchUrl = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDtI3zjzQPOATz6v68va9z_z6JVIIs05uI&cx=26fde055a2ccf8561&q=";
+        String stSearchUrl = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDtI3zjzQPOATz6v68va9z_z6JVIIs05uI&cx=de16a6afb2238ce96&q=";
 
         stSearchUrl += query;
 
